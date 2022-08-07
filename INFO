@@ -1,0 +1,21 @@
+MNIST Handwritten Digit Classification Dataset
+
+It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. 
+The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively.
+
+
+ALGORITHM
+
+There are a number of ways and algorithms to recognize handwritten digits, including
+Deep Learning/CNN, SVM, Gaussian Naive Bayes, KNN, Decision Trees, Random Forests, etc
+
+mnist dataset is a dataset of handwritten images as shown below in the image.
+We can get 99.06% accuracy by using CNN(Convolutional Neural Network) with a functional model.
+The reason for using a functional model is to maintain easiness while connecting the layers.
+
+CLASSIFICATION
+
+A standard benchmark for neural network classification is the MNIST digits dataset, a set of 70,000 28×28 images of hand-written digits. 
+Each MNIST digit is labeled with the correct digit class (0, 1, ... 9).
+
+
